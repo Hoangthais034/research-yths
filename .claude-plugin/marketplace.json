@@ -1,0 +1,17 @@
+{
+  "name": "research-yths",
+  "owner": {
+    "name": "Hoangthais034"
+  },
+  "metadata": {
+    "description": "Skill tìm hiểu đề tài và rà soát tiếng Việt cho BA"
+  },
+  "plugins": [
+    {
+      "name": "research-yths",
+      "source": "./",
+      "description": "Bộ skill tìm hiểu đề tài, công ty, vấn đề và rà soát tiếng Việt cho báo cáo",
+      "version": "0.1.0"
+    }
+  ]
+}
